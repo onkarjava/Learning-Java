@@ -21,6 +21,6 @@ public class Hello {
 		//set a new name
 		service.setName("Spring");
 		message = service.sayHello();
-		System.out.println(message);
+		System.out.println(message);//hello
 	}
 }
